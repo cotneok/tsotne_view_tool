@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+@copyright = TsotneViewTool::Renderer.copyright 'Tsotne Okrostsvaridze', 'All rights reserved'
+```
 
 ## Development
 
