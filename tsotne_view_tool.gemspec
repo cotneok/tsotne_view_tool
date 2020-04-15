@@ -4,7 +4,7 @@ Gem::Specification.new do |spec|
   spec.name          = "tsotne_view_tool"
   spec.version       = TsotneViewTool::VERSION
   spec.authors       = ["Tsotne Okrostsvaridze"]
-  spec.email         = ["tokrostsvaridze@vaba.co"]
+  spec.email         = ["cotne.ok@gmail.com"]
 
   spec.summary       = %q{Various view specific methods for applications I use.}
   spec.description   = %q{Provides generated HTML data for Rails applications.}
